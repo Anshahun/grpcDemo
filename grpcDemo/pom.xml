@@ -9,7 +9,7 @@
 		<!-- https://mvnrepository.com/artifact/io.grpc/grpc-all -->
 		<dependency>
 			<groupId>io.grpc</groupId>
-			<artifactId>grpc-all</artifactId>
+			<artifactId>grpc-protobuf</artifactId>
 			<version>1.8.0</version>
 		</dependency>
 
